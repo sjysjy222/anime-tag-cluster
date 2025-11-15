@@ -5,3 +5,5 @@
 使用Anime下拉菜单可选择具体动画及其相邻的10部动画。
 使用Tag下拉菜单可选择具体动画标签。
 建议使用PC端查看。
+
+示例html:https://sjysjy222.github.io/anime-tag-cluster/
