@@ -6,4 +6,6 @@
 使用Tag下拉菜单可选择具体动画标签。
 建议使用PC端查看。
 
+代码位于Bangumi_tag_umap.ipynb
+
 示例html:https://sjysjy222.github.io/anime-tag-cluster/
