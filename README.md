@@ -10,5 +10,10 @@
 
 在release中可以找到所有动画，及百合动画聚类的源文件
 
-示例html:https://sjysjy222.github.io/anime-tag-cluster/
-https://sjysjy222.github.io/anime-tag-cluster/full_anime
+示例html:
+
+动画聚类：https://sjysjy222.github.io/anime-tag-cluster/full_anime
+
+百合聚类：https://sjysjy222.github.io/anime-tag-cluster/
+
+
