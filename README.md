@@ -6,7 +6,7 @@
 使用Tag下拉菜单可选择具体动画标签。
 建议使用PC端查看。
 
-代码位于Bangumi_tag_umap.ipynb
+代码位于Bangumi_tag_umap_ver2.ipynb
 
 在release中可以找到所有动画，及百合动画聚类的源文件
 
