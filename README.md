@@ -16,8 +16,8 @@
 
 示例html:
 
-动画聚类：https://sjysjy222.github.io/anime-tag-cluster/full_anime
+动画聚类：https://sjysjy222.github.io/anime-tag-cluster/
 
-百合聚类：https://sjysjy222.github.io/anime-tag-cluster/
+百合聚类：https://sjysjy222.github.io/anime-tag-cluster/yuri_anime
 
 
